@@ -1,4 +1,3 @@
-# CS325 Portfolio Project
 # Author: Steven Chen
 # Description: Portfolio project based on Minesweeper with a 10x10 grid and 10 mines.
 
