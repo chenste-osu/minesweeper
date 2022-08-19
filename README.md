@@ -17,17 +17,17 @@ https://www.python.org/downloads/
 
 ## Game Rules
 
-Same rules as Minesweeper on a 10x10 grid. 
+- Same rules as Minesweeper on a 10x10 grid. 
 
-There are 10 mines hidden in the game board. 
+- There are 10 mines hidden in the game board. 
 
 After each text prompt, type the row number, then a space, followed by the column number. Example: 2 6
 
 If you know a cell has a mine, then flagging is useful so that you don't accidentally trigger the mine.
 
-Type 'F' (without quotes) after the row and column to flag a cell.
+- Type 'F' (without quotes) after the row and column to flag a cell.
 
-Type 'U' (without quotes) after the row and column to unflag a cell.
+- Type 'U' (without quotes) after the row and column to unflag a cell.
 
 The game ends when you fully reveal all 90 cells (i.e. every cell except the ones containing mines). 
 
