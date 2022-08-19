@@ -23,13 +23,11 @@ There are 10 mines hidden in the game board.
 
 After each text prompt, type the row number, then a space, followed by the column number. Example: 2 6
 
-
 If you know a cell has a mine, then flagging is useful so that you don't accidentally trigger the mine.
 
 Type 'F' (without quotes) after the row and column to flag a cell.
 
 Type 'U' (without quotes) after the row and column to unflag a cell.
-
 
 The game ends when you fully reveal all 90 cells (i.e. every cell except the ones containing mines). 
 
@@ -38,5 +36,7 @@ The game ends when you fully reveal all 90 cells (i.e. every cell except the one
 Type the following strings instead of a row and column number to activate something cool.
 
 "showall" - prints the fully revealed board
+
 "winpls" - automatically wins the game
+
 "reset" - restarts the process with a new board
